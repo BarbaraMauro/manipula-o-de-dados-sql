@@ -35,7 +35,7 @@ Clone este repositório para sua máquina local:
 
 bash
 Copiar
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/BarbaraMauro/manipula-o-de-dados-sql.git
 Acesse os arquivos SQL que contêm os exemplos e execute-os em seu banco de dados.
 
 5- Experimente as consultas e manipulações de dados para entender como cada comando SQL funciona.
